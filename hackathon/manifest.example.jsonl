@@ -1,0 +1,1 @@
+{"id": "sample-001", "writer_id": "writer-01", "page_id": "page-001", "split": "test", "image": "data/page-001.jpg", "ocr_text": "Buy milk", "expected": {"transcription": "Buy milk", "tasks": [{"title": "Buy milk", "due": null}]}}
